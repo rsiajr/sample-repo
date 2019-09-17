@@ -1,3 +1,10 @@
 body{
     background-color: lightgrey;
-    }
+    font-weight: 700;
+    font-style: normal;
+    font-size: 1rem;
+    font-family: helvetica, arial, sans-serif;
+
+    /* other way of writing code above: font: 700 normal 1rem helvetica, arial, sans-serif;  */
+    /* weight style size (required) family (required) */
+}
